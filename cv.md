@@ -61,7 +61,9 @@ Junior JavaScript Developer with analytical, problem solving and organisational 
 ### Employment history:
 
 *17-07-2017 - current time:*
+
 **Logistics manager at Tu-Tell Logistic**
+
 Duties:
 - Plan and manage logistics, warehouse, transportation and customer services
 - Direct, optimize and coordinate full order cycle
@@ -72,20 +74,29 @@ Duties:
 ### Education:
 
 *01-09-2014 – 15-06-2019:*
+
 **A Bachelor’s degree in Logistics**
+
 Faculty of Innovative Mechanic Engineering
+
 Yanka Kupala State University of Grodno
 
 
 *01-09-2019 – 28-01-2021:*
+
 **A Master’s degree in Logistics**
+
 Faculty of Innovative Mechanic Engineering
+
 Yanka Kupala State University of Grodno
 
 
 ### Courses:
 **IT-Academy course: Website development with HTML, CSS and JavaScript** (100 academic hours)
+
 **UDEMY-courses: JavaScript (online)**
 
+
 ### English level:
+
  Intermediate (B-1)
