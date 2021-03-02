@@ -1,30 +1,37 @@
-#Kseniya Revutskaya#
+# Kseniya Revutskaya
 
-##Front End Developer##
+## Front End Developer
 
 ***
 
-###Address:###
+### Address:
+
  Grodno, Belarus
 
-###Phone:###
+### Phone:
+
  +375299377843 telegram, viber, whatsapp
 
-###Email:###
+### Email:
+
  revutskaya.ke@gmail.com
 
-###Github:###
+### Github:
+
 https://github.com/revuttskaya
 
-###Date of birth:###
+### Date of birth:
+
  07-04-1997
 
 ***
 
-###Profile:###
+### Profile:
+
 Junior JavaScript Developer with analytical, problem solving and organisational skill, ability to work independently and handle multiple projects, good verbal and written communication skills.
 
-###Skills:###
+### Skills:
+
 - HTML
 - CSS
 - basic knowledge of JavaScript
@@ -32,10 +39,12 @@ Junior JavaScript Developer with analytical, problem solving and organisational 
 - Github
 - Webstorm
 
-###Projects:###
+### Projects:
+
 [Site of Logistics company «Just-in-time»]( https://github.com/revuttskaya/revutskaya-logistics-project)
 
-###Code examples###
+### Code examples
+
 	var toggleButton = document.querySelector(".toggle-button");
 	var mobileNav = document.querySelector(".mobile-nav");
 	var close = document.getElementsByClassName("mobile-nav__close")[0];
@@ -49,7 +58,8 @@ Junior JavaScript Developer with analytical, problem solving and organisational 
 	});
 	close.onclick = onCloseModalActions;
 
-###Employment history:###
+### Employment history:
+
 *17-07-2017 - current time:*
 **Logistics manager at Tu-Tell Logistic**
 Duties:
@@ -58,9 +68,9 @@ Duties:
 - Liaise and negotiate with suppliers, manufacturers, retailers and consumers
 - Arrange warehouse, plan routes and process shipments
 - Resolve any arising problems or complaints 
+ 
+### Education:
 
-
-###Education:###
 *01-09-2014 – 15-06-2019:*
 **A Bachelor’s degree in Logistics**
 Faculty of Innovative Mechanic Engineering
@@ -73,9 +83,9 @@ Faculty of Innovative Mechanic Engineering
 Yanka Kupala State University of Grodno
 
 
-###Courses:###
+### Courses:
 **IT-Academy course: Website development with HTML, CSS and JavaScript** (100 academic hours)
 **UDEMY-courses: JavaScript (online)**
 
-###English level:###
+### English level:
  Intermediate (B-1)
