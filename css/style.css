@@ -1,0 +1,12 @@
+body {
+    margin: 0 auto;
+    width: 40%;
+}
+
+img {
+    max-width: 30%;
+}
+
+h3 {
+    text-transform: uppercase;
+}
