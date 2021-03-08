@@ -1,12 +1,58 @@
 body {
     margin: 0 auto;
-    width: 40%;
+    width: 50%;
+    font-family: Arial, sans-serif;
 }
 
-img {
-    max-width: 30%;
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+}
+
+figure {
+    margin: 1em 0;
+}
+
+.avatar {
+    max-width: 40%;
+    border: 10px solid lightgray;
+    border-radius: 10px;
+}
+
+h1, h2, h3 {
+    margin: .5em 0;
 }
 
 h3 {
     text-transform: uppercase;
+}
+
+ul {
+    margin: .5em 0;
+}
+
+section {
+    margin: 2em 0;
+}
+
+.github,
+.rsschool {
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.github img,
+.rsschool img {
+    margin: 0 auto;
+    width: 40%;
+}
+
+.year {
+    text-align: center;
 }

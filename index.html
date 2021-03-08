@@ -8,7 +8,7 @@
 <body>
   <header>
     <figure>
-      <img src="img/avatar.jpg" alt="Avatar">
+      <img src="img/avatar.jpg" alt="Avatar" class="avatar">
       <h1>Kseniya Revutskaya</h1>
       <h2>Front End Developer</h2>
     </figure>
@@ -20,7 +20,7 @@
         <li>Address: Grodno, Belarus</li>
         <li>Phone: +37529 93 77 843 Telegram, Viber, Whatsapp</li>
         <li>Email: revutskaya.ke@gmail.com</li>
-        <li>Github: <a href="https://github.com/revuttskaya">https://github.com/revuttskaya</a></li>
+        <li>Github: <a href="https://github.com/revuttskaya" target="_blank">https://github.com/revuttskaya</a></li>
       </ul>
 
     </section>
@@ -46,20 +46,8 @@
 
     <section>
       <h3>Projects:</h3>
-      <a href="https://github.com/revuttskaya/revutskaya-logistics-project">Site of Logistics company «Just-in-time»</a>
-      <h3>Code examples:</h3>
-      <code>var toggleButton = document.querySelector(".toggle-button");<br>
-        var mobileNav = document.querySelector(".mobile-nav");<br>
-        var close = document.getElementsByClassName("mobile-nav__close")[0];<br>
-        var onCloseModalActions = function () {<br>
-        mobileNav.style.display = "none";<br>
-        document.body.style.overflow = 'visible';<br>
-        };<br>
-        toggleButton.addEventListener("click", function() {<br>
-        mobileNav.style.display = 'block';<br>
-        document.body.style.overflow = 'hidden';<br>
-        });<br>
-        close.onclick = onCloseModalActions;</code>
+      <a href="https://github.com/revuttskaya/revutskaya-logistics-project" target="_blank">Site of Logistics company
+        «Just-in-time»</a>
     </section>
 
     <section>
@@ -99,13 +87,15 @@
 
   </main>
   <footer>
-    <a href="https://github.com/revuttskaya/rsschool-cv">
-      <img src="img/github.jpeg" alt="github">
-    </a>
-    <a href="https://rs.school/">
-      <img src="img/rsschool.png" alt="rs-school">
-    </a>
-    <p>2021</p>
+    <div class="wrapper">
+      <a href="https://github.com/revuttskaya/rsschool-cv" class="github" target="_blank">
+        <img src="img/github.jpeg" alt="github">
+      </a>
+      <a href="https://rs.school/" class="rsschool" target="_blank">
+        <img src="img/rsschool.png" alt="rs-school">
+      </a>
+    </div>
+    <p class="year">2021</p>
   </footer>
 </body>
 </html>
